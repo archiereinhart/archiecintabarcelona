@@ -1,17 +1,17 @@
 body {
-    background-color: #e7e7e7;
-    font-family: sans-serif;
+    background-color: #919db4;
+    font-family: Comic Sans MS", "Comic Sans", cursive;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
 h1 {
-    color: darkblue;
+    color:  rgb(65, 147, 214);
     text-align: center;
 }
 
 h2 {
-    color: #873600;
+    color: #18d8c8;
 }
 
 img {
